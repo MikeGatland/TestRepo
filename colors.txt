@@ -1,5 +1,5 @@
-red
-green
 blue
-yellow
+green
 purple
+red
+yellow
