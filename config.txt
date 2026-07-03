@@ -1,2 +1,2 @@
-mode=beta
+mode=production
 retries=5
