@@ -1,3 +1,4 @@
 Initial notes file.
 Line one - updated for release A.
+Line one - updated for release B.
 Line two.
